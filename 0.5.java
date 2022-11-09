@@ -13,4 +13,5 @@ public class Program
         } else {
             System.out.println("The number is not even");
         }
+    }
 }
